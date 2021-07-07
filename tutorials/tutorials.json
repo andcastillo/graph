@@ -1,0 +1,69 @@
+{
+     "10_basic": {
+         "title": "Getting started"
+     },
+
+    "18-adaptto": {
+         "title": "Adapt axes"
+    },
+    "20-axesadvanced": {
+         "title": "Axes unit and scientific scaling"
+    },
+
+    "19-axisspan": {
+         "title": "Axes spanning"
+    },
+
+    "12-shapes": {
+         "title": "Handling shapes (basic)"
+    },
+
+
+    "13-shapes-types": {
+         "title": "Types of shapes"
+    },
+
+
+    "15-shapes-events": {
+         "title": "Shape events"
+    },
+
+    "16-errorbars": {
+         "title": "Error bars"
+    },
+
+
+    "16-boxcharts": {
+         "title": "Box plots"
+    },
+
+
+    "10-zoom": {
+         "title": "Zoom plugin"
+    },
+
+
+    "17-trackingline": {
+         "title": "Tracking line"
+    },
+
+    "23-densitymap": {
+         "title": "Density maps"
+    },
+
+    "11-seriestyle": {
+         "title": "Serie styles"
+    },
+
+    "22-linedifference": {
+         "title": "Difference between two series"
+    },
+
+    "15-barcharts": {
+       "title": "Bar charts"
+    },
+
+    "21-axissplitting": {
+         "title": "Axis splitting"
+    }
+ }

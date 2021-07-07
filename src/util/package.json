@@ -1,0 +1,21 @@
+{
+  "name": "jsgraph-waveform",
+  "description": "Waveform library that represents and manipulates arrays of data",
+  "version": "0.0.9",
+  "scripts": {},
+  "main": "dist/waveform.js",
+  "files": [
+    "dist/waveform.js"
+  ],
+  "devDependencies": {
+    "extend": "^3.0.1",
+    "grunt-bump": "^0.8.0",
+    "grunt-exec": "^3.0.0",
+    "grunt-rollup": "^9.0.0",
+    "rollup-plugin-commonjs": "^8.3.0",
+    "rollup-plugin-node-resolve": "^3.0.2"
+  },
+  "dependencies": {},
+  "repository": "NPellet/jsgraph-waveform",
+  "license": "MIT"
+}

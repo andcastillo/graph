@@ -1,0 +1,40 @@
+{
+  "name": "eventEmitter",
+  "description": "Event based JavaScript for the browser",
+  "version": "4.2.13",
+  "main": [
+    "./EventEmitter.js"
+  ],
+  "author": {
+    "name": "Oliver Caldwell",
+    "web": "http://oli.me.uk/"
+  },
+  "licenses": [
+    {
+      "type": "Unlicense",
+      "url": "http://unlicense.org/"
+    }
+  ],
+  "keywords": [
+    "events",
+    "structure"
+  ],
+  "ignore": [
+    "docs",
+    "tests",
+    "tools",
+    ".gitignore",
+    "package.json"
+  ],
+  "homepage": "https://github.com/NPellet/EventEmitter",
+  "_release": "4.2.13",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.2.13",
+    "commit": "6285f664e6ae607812e98e1ae66d883859ab7153"
+  },
+  "_source": "git://github.com/NPellet/EventEmitter.git",
+  "_target": "~4.2.13",
+  "_originalSource": "git://github.com/NPellet/EventEmitter",
+  "_direct": true
+}
